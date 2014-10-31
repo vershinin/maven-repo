@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ebay</groupId>
+  <artifactId>sdk</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.883-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141031211002</lastUpdated>
+  </versioning>
+</metadata>
